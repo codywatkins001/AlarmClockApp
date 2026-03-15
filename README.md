@@ -42,6 +42,12 @@ To learn more about developing your project with Expo, look at the following res
 - [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
 - [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
+- AlarmClockApp
+Challenge Alarm Clock is a mobile app built with React Native that helps users wake up by requiring them to complete a task before the alarm can be turned off. Instead of simply pressing a button to stop the alarm, the user must complete a challenge such as solving a math problem or typing a phrase correctly. 
+
+youtube link to see how it works- https://www.youtube.com/shorts/meF6NFYKJio
+
+
 ## Join the community
 
 Join our community of developers creating universal apps.
