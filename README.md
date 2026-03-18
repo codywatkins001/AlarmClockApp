@@ -54,3 +54,6 @@ Join our community of developers creating universal apps.
 Challenge Alarm Clock is a mobile app built with React Native that helps users wake up by requiring them to complete a task before the alarm can be turned off. Instead of simply pressing a button to stop the alarm, the user must complete a challenge such as solving a math problem or typing a phrase correctly. 
 
 youtube link to see how it works- https://www.youtube.com/shorts/meF6NFYKJio
+
+youtube link to see me explain the code - 
+https://www.youtube.com/watch?v=7TZATDH8IEQ&list=PLtJdqUnN7CLIa0e33QHWVXOo3rIqcdaop&index=1
